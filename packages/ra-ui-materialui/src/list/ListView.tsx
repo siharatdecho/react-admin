@@ -249,6 +249,7 @@ const sanitizeRestProps: (
     setSort = null,
     showFilter = null,
     sort = null,
+    syncWithLocation = null,
     total = null,
     ...rest
 }) => rest;
