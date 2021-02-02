@@ -196,6 +196,7 @@ You can find translation packages for the following languages:
 - Slovak (`sk`): [zavadpe/ra-language-slovak](https://github.com/zavadpe/ra-language-slovak)
 - Spanish (`es`): [blackboxvision/ra-language-spanish](https://github.com/BlackBoxVision/ra-language-spanish)
 - Swedish (`sv`): [jolixab/ra-language-swedish](https://github.com/jolixab/ra-language-swedish)
+- Thai (`th`): [atomxsk8/ra-language-thai](https://github.com/atomxsk8/ra-language-thai)
 - Turkish (`tr`): [KamilGunduz/ra-language-turkish](https://github.com/KamilGunduz/ra-language-turkish)
 - Ukrainian (`ua`): [koresar/ra-language-ukrainian](https://github.com/koresar/ra-language-ukrainian)
 - Vietnamese (`vi`): [hieunguyendut/ra-language-vietnamese](https://github.com/hieunguyendut/ra-language-vietnamese)
@@ -206,7 +207,6 @@ In addition, the previous version of react-admin, called admin-on-rest, was tran
 - Croatian (`hr`): [ariskemper/aor-language-croatian](https://github.com/ariskemper/aor-language-croatian)
 - Greek (`el`): [zifnab87/aor-language-greek](https://github.com/zifnab87/aor-language-greek)
 - Slovenian (`sl`): [ariskemper/aor-language-slovenian](https://github.com/ariskemper/aor-language-slovenian)
-- Thai (`th`): [liverbool/aor-language-thai](https://github.com/liverbool/aor-language-thai)
 
 These packages are not directly interoperable with react-admin, but the upgrade is straightforward; rename the root key from "aor" to "ra". We invite the authors of the packages listed above to republish their translations for react-admin, using a different package name.
 
